@@ -1,0 +1,11 @@
+C:\Users\west846\AppData\Local\Temporary Projects\Tearryn's Notepad\bin\Debug\Tearryn's Notepad.exe.config
+C:\Users\west846\Documents\Visual Studio 2012\Projects\Tearryn's Notepad\Tearryn's Notepad\obj\Debug\Tearryn_s_Notepad.Form1.resources
+C:\Users\west846\Documents\Visual Studio 2012\Projects\Tearryn's Notepad\Tearryn's Notepad\obj\Debug\Tearryn_s_Notepad.Resources.resources
+C:\Users\west846\Documents\Visual Studio 2012\Projects\Tearryn's Notepad\Tearryn's Notepad\obj\Debug\Tearryn's Notepad.vbproj.GenerateResource.Cache
+C:\Users\west846\Documents\Visual Studio 2012\Projects\Tearryn's Notepad\Tearryn's Notepad\bin\Debug\Tearryns Notepad.exe.config
+C:\Users\west846\Documents\Visual Studio 2012\Projects\Tearryn's Notepad\Tearryn's Notepad\bin\Debug\Tearryns Notepad.exe
+C:\Users\west846\Documents\Visual Studio 2012\Projects\Tearryn's Notepad\Tearryn's Notepad\bin\Debug\Tearryns Notepad.pdb
+C:\Users\west846\Documents\Visual Studio 2012\Projects\Tearryn's Notepad\Tearryn's Notepad\bin\Debug\Tearryns Notepad.xml
+C:\Users\west846\Documents\Visual Studio 2012\Projects\Tearryn's Notepad\Tearryn's Notepad\obj\Debug\Tearryns Notepad.exe
+C:\Users\west846\Documents\Visual Studio 2012\Projects\Tearryn's Notepad\Tearryn's Notepad\obj\Debug\Tearryns Notepad.xml
+C:\Users\west846\Documents\Visual Studio 2012\Projects\Tearryn's Notepad\Tearryn's Notepad\obj\Debug\Tearryns Notepad.pdb
